@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brian Reed"
+title                    : "Brian A. Reed"
 title_separator          : "-"
-name                     : &name "Brian Reed"
+name                     : &name "Brian A. Reed"
 description              : &description ""
 url                      : https://brianreed21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brian Reed"
+  name             : "Brian A. Reed"
   avatar           : "profile.png"
-  bio              : "PhD Candidate"
+  bio              : "PhD Candidate, Climate ML & Econometrics"
   location         : "Stanford, California"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "brianr21"
+  github           : "brianreed21"
   google_plus      :
   keybase          :
   instagram        :
