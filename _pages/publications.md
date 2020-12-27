@@ -4,7 +4,10 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-## Working Papers
+## Current Work
+* The Crowding Out Effect of Distributed Solar on Centralized Renewable Generation, with Kenneth Gillingham.
+* Shock Propagation in Dynamic Production Networks.
+* Near-Term Climate Prediction and Extreme Event Attribution for End Users, with John Weyant.
 
 
 ## Publications
