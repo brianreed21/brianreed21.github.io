@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Brian is a rising 3rd-year PhD Candidate who draws from economics and computer science to study the economic side of climate change. His research explores market-based approaches to mitigate and adapt to climate change, different techniques to quantify the social and economic impacts of environmental shocks, and applications of machine learning to improve the use of Earth Systems models in near-term prediction problems.
+I am a fourth-year PhD student in Energy & Environmental Economics at Stanford University, where I work with John Weyant as part of the [Program on Coupled Human and Earth Systems](https://www.pches.psu.edu/). I focus on the impacts of climate change in the nearer-term, over the coming years and decades. I am also working with Ken Gillingham to study the potential role of distributed energy in the energy system, as part of the [Solutions for Energy, Air, Climate & Health (SEARCH) project](https://search-center.yale.edu/).
+
 
