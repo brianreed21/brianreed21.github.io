@@ -76,7 +76,7 @@ social:
 analytics:
   provider               :  "custom" # "google-universal"  false (default), "google", "google-universal", "custom" - https://github.com/academicpages/academicpages.github.io/issues/265
   google:
-    tracking_id          : G-RNN7LCVDRR
+    tracking_id          : "G-RNN7LCVDRR"
 
 
 # Site Author
